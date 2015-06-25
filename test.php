@@ -3,3 +3,10 @@
 echo "test";
 
 ?>
+
+<?php 
+
+echo "test2";
+
+
+?>
